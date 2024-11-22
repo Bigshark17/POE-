@@ -3,7 +3,7 @@ Introduction
 The Contract Monthly Claim System (CMCS) is a .NET MVC-based web application designed to streamline the submission and approval process for monthly work claims. Lecturers can submit claims for hours worked, and administrators (Programme Coordinators and Academic Managers) can review, approve, or reject these claims. The application also allows for uploading supporting documents and tracking claim statuses.
 ________________________________________
 Getting Started
-System Requirements
+System Requirement
 •	ASP.NET Core MVC Framework: Ensure your system has the necessary environment to run .NET Core MVC projects.
 •	Database: SQL Server (or compatible database system).
 •	Browser Compatibility: Supports modern browsers like Chrome, Edge, and Firefox.
